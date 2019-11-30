@@ -1,0 +1,3 @@
+[submodule "directed-graph-creator"]
+	path = directed-graph-creator
+	url = https://github.com/cjrd/directed-graph-creator.git
